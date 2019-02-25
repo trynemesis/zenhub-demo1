@@ -1,0 +1,2 @@
+Arquivo de leitura apenas.
+Commit do Zenhub.
